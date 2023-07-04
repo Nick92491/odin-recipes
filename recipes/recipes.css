@@ -1,0 +1,42 @@
+image {
+    width: 200px;
+}
+
+h1 {
+    color: darkred;
+}
+
+ul {
+    list-style: none;
+}
+
+.recipe-card {
+
+    width: 400px;
+    background-color: #fffafa;
+    text-align: center;
+}
+
+.recipe-content {
+    text-align: left;
+}
+
+.recipe-card h3, 
+.recipe-card a {
+    text-transform: uppercase;
+}
+
+.recipe-card.feature {
+    border: 2px solid red;
+}
+
+ul li h2 {
+    font-size: 16px;
+    
+}
+
+.recipe-card a {
+    background-color: #fc9400;
+    color: #fff;
+    text-decoration: none;
+}
